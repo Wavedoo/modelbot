@@ -6,7 +6,7 @@ const client = new Discord.Client();
 const sql = require('sqlite');
 
 //settings
-const settings = require('./settings.json');
+
 client.on('ready', () => {
     console.log(client.user.username + 'is online!');
 });
