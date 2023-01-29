@@ -1,2 +1,2 @@
 # modelbot
-testing a bot
+Testing a Discord bot in 2018
